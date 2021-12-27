@@ -35,7 +35,7 @@
 
 
 <講師のご案内>
-すずきまみ
+<img style="border-style: initial; border-color: initial;float:right;" title="すずきまみ" src="http://res.primasm.com/img/ballet/002-200x300.jpg" alt="すずきまみ" width="200" height="300" />
 すずきまみ
 
 3歳よりクラシックバレエを習う。
