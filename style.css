@@ -1,0 +1,122 @@
+body {
+    background-color:#f08080
+}
+
+.fullwidth {
+    background-color: #fff;
+    margin-top: 5px;
+    width:100%
+}
+
+header {
+    margin-bottom:40px
+}
+
+header .title a {
+    color: #000;
+    text-decoration:none
+}
+
+header .title a:hover {
+    color:#225E9B
+}
+
+header .description {
+    color:#AFAFAF
+}
+
+nav .main-nav {
+    line-height: 1.5em;
+    text-align: left;
+    margin-top: 0;
+    border-bottom: 1px solid #E9E9E9;
+    float: left;
+    padding-left: 0;
+    width:100%
+}
+
+nav .main-nav::after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility:hidden
+}
+
+nav .main-nav li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    float:left
+}
+
+nav .main-nav li a {
+    color: #777;
+    padding: 10px 15px;
+    text-decoration: none;
+    display: block;
+    font-size:.85em
+}
+
+nav .main-nav li a:hover {
+    background-color:#F7F7F7
+}
+
+.contents {
+    clear: both;
+    padding-top: 30px;
+    padding-bottom:30px
+}
+
+footer {
+    color:#fff
+}
+
+footer .title {
+    float:left
+}
+
+footer .title a {
+    color: #fff;
+    text-decoration:none
+}
+
+footer .footer-nav {
+    line-height: 1.5em;
+    text-align: right;
+    margin-top: 0;
+    padding-left: 40px;
+    padding-top: 20px;
+    float:left
+}
+
+footer .footer-nav::after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility:hidden
+}
+
+footer .footer-nav li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    float:left
+}
+
+footer .footer-nav li a {
+    color: #FFF;
+    padding: 10px 15px;
+    text-decoration: none;
+    display:block
+}
+
+footer .footer-nav li a:hover {
+    text-decoration:underline
+}
+
+#copyright {
+    float: right
+}
+
