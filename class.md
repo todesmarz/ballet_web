@@ -1,5 +1,6 @@
 ## クラス
-ダンスイメージ
+<img style="border-style: initial; border-color: initial;float:right;" title="dance" src="http://res.primasm.com/img/ballet/dance-300x276.png" alt="ダンスイメージ" width="300" height="276" />
+
 幼児クラス
 
 毎週木曜日 　午後4時～4時45分
